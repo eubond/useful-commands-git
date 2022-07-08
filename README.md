@@ -53,7 +53,7 @@ git commit --amend --no-edit
 Não se esqueça que quando se utilzia ammend o push deve aplicar a flag
 
 ```
-git push oringin master --force
+git push origin master --force
 ```
 
 pois o commit irá sobrescrever a branch principal.
@@ -143,7 +143,7 @@ squash 3sw94599 refactor ui
 depois é só utilizar o comando:
 
 ```
-git push oringin master -f
+git push origin master -f
 ```
 
 E pronto seus commits foram unificados
